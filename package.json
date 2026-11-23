@@ -1,0 +1,8 @@
+{
+  "name": "pridjevi-arena-online",
+  "version": "2.0.0",
+  "description": "Timski online kviz o pridjevima",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
